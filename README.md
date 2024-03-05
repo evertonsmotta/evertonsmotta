@@ -37,7 +37,7 @@ Cadet at [42 Porto](https://www.42porto.com/)
 
 ## Recent Projects
 
-- C
+- 
 
 ## Skills
 
