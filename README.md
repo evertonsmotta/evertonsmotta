@@ -35,10 +35,6 @@ Cadet at [42 Porto](https://www.42porto.com/)
 ## GitHub Stats
 ![Everton Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonsmotta&show_icons=true&theme=gotham)
 
-## Recent Projects
-
-- 
-
 ## Skills
 
 ### Programming Languages
