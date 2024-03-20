@@ -4,7 +4,7 @@ I'm Everton! Passionate about Management and Information Technology.
 
 - 🌱 Currently studying Software Engineering at [École 42](https://www.42porto.com/).
 - 🖖 I hope the projects I'll share here will contribute to the community's growth.
-- 🔭 Seeking my first job opportunity.
+- 👨‍💻 Open to job opportunity.
 
 ## More about Me
 <details>
