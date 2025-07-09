@@ -64,3 +64,20 @@ I'm Everton! Passionate about Management and Information Technology.
   <img align="center" alt="YOLO" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_YOLO.svg">
 </div>
 
+## Featured Projects
+
+### [ft_irc](https://github.com/evertonsmotta/ft_irc)
+
+  - An IRC server implemented in C++. This project handles simultaneous client connections, channel management, and custom command parsing.
+
+### [inception](https://github.com/evertonsmotta/inception)
+
+  - Complete infrastructure with Docker and Docker Compose. The project configures services like NGINX, WordPress, and MariaDB into isolated containers, orchestrated to run locally.
+
+### [ft_transcendence](https://github.com/evertonsmotta/ft_transcendence)
+
+ - Full-stack development of a Pong tournament platform built with Django, PostgreSQL, Bootstrap, and Docker. Supports PvP matches, versus AI, and tournaments with dynamic bracketing.
+
+### [JetRacer AI Control](link seame repo)
+
+ - Self-driving car control system based on NVIDIA Jetson. Integration with computer vision (YOLO, LaneNet), PID/MPC in C++, TensorRT, and joystick control with SDL2. Uses real-time inference pipeline with CSI camera.
