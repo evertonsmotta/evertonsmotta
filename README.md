@@ -60,5 +60,7 @@ I'm Everton! Passionate about Management and Information Technology.
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Cmake" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-plain.svg" />
+  <img align="center" alt="OpenCV" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg">
+  <img align="center" alt="YOLO" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_YOLO.svg">
 </div>
 
