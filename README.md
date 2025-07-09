@@ -78,6 +78,6 @@ I'm Everton! Passionate about Management and Information Technology.
 
  - Full-stack development of a Pong tournament platform built with Django, PostgreSQL, Bootstrap, and Docker. Supports PvP matches, versus AI, and tournaments with dynamic bracketing.
 
-### [JetRacer AI Control](link seame repo)
+### [JetRacer AI Control](https://github.com/SEAME-pt/ObjectDetectionAvoidance)
 
  - Self-driving car control system based on NVIDIA Jetson. Integration with computer vision (YOLO, LaneNet), PID/MPC in C++, TensorRT, and joystick control with SDL2. Uses real-time inference pipeline with CSI camera.
