@@ -2,7 +2,7 @@
 
 I'm Everton! Passionate about technology and innovation.
 
-- Currently studying Software Development at [École 42](https://www.42porto.com/) and Software Engineering in Automotive & Mobility Ecosystems at [SEA:ME Portugal](https://shaken.pt/projects/seame/).
+- Currently studying Software Development at [École 42](https://www.42porto.com/).
 - I hope the projects I'll share here will contribute to the community's growth.
 
 ## More about Me
