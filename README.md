@@ -1,83 +1,114 @@
-# Hello World 👋 !
+# Hi, I'm Everton Mota 👋
 
-I'm Everton! Passionate about technology and innovation.
+### Software Engineer | Full Stack • Embedded & Edge Systems
 
-- Currently studying Software Development at [École 42](https://www.42porto.com/).
-- I hope the projects I'll share here will contribute to the community's growth.
+Software Engineer based in Portugal, currently working at **Bosch Life Safety Systems** as part of an international, cross-functional engineering team.
 
-## More about Me
-<details>
-  <summary> More about me</summary>
+I work across different layers of software systems, from **backend and frontend development** to **distributed communication, networking and edge devices**.
 
-- Currently living in Portugal. I have experience with WordPress, Linux systems administration, and C language. I hold a degree in IT Management and specialization in Engineering and Quality and Project Management. During my time as an Administration Analyst, I developed important skills such as creativity, teamwork, communication, marketing, problem-solving, and process management.
+My background also includes **C/C++ development, embedded systems, computer vision and AI inference**, with hands-on experience through **SEA:ME** and the **42 Porto** project-based curriculum.
 
-- I enjoy learning new things, as well as traveling and spending time with family and friends! I believe our interests contribute to personal development and professional skills enhancement.
-</details>
+---
 
-🇧🇷 Born in Belém, Pará, Brazil <br>
-🇵🇹 Living in Porto, Portugal <br>
+## 💻 What I'm working with
 
-## Contacts
-<div align="left">
-  <a href="https://www.linkedin.com/in/everton-mota-0b91b29a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:evertonsmotta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/evertonsmota?igsh=MWdwOWxsNGZmZnZmYQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+**Languages**
 
-## GitHub Stats
-![Everton Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonsmotta&show_icons=true&theme=gotham)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-## Skills
+**Backend & Frontend**
 
-### Languages
-<div style="flex-basis: 48%;">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-</div>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue)
 
-### Tools & Frameworks
-<div style="flex-basis: 48%;">
-  <img align="center" alt="FileZilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
-  <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-  <img align="center" alt="Nano" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain.svg" />
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Cmake" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-plain.svg" />
-  <img align="center" alt="OpenCV" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg">
-  <img align="center" alt="YOLO" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_YOLO.svg">
-</div>
+**Systems, Edge & Communication**
 
-## Featured Projects
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+![ONVIF](https://img.shields.io/badge/ONVIF-IP_Cameras-333333)
+![DDS](https://img.shields.io/badge/DDS-Fast_DDS-333333)
+![gRPC](https://img.shields.io/badge/gRPC-Communication-244C5A)
+![RTSP](https://img.shields.io/badge/RTSP-Video_Streaming-333333)
 
-### [ft_irc](https://github.com/evertonsmotta/ft_irc)
+**DevOps & Tools**
 
-  - An IRC server implemented in C++. This project handles simultaneous client connections, channel management, and custom command parsing.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog_Artifactory-40BE46?style=flat&logo=jfrog&logoColor=white)
 
-### [inception](https://github.com/evertonsmotta/inception)
+**Computer Vision & AI Inference**
 
-  - Complete infrastructure with Docker and Docker Compose. The project configures services like NGINX, WordPress, and MariaDB into isolated containers, orchestrated to run locally.
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
 
-### [ft_transcendence](https://github.com/evertonsmotta/ft_transcendence)
+---
 
- - Full-stack development of a Pong tournament platform built with Django, PostgreSQL, Bootstrap, and Docker. Supports PvP matches, versus AI, and tournaments with dynamic bracketing.
+## 🚀 Featured Projects
 
 ### [JetRacer AI Control](https://github.com/SEAME-pt/ObjectDetectionAvoidance)
 
- - Self-driving car control system based on NVIDIA Jetson. Integration with computer vision (YOLO, LaneNet), PID/MPC in C++, TensorRT, and joystick control with SDL2. Uses real-time inference pipeline with CSI camera.
+Autonomous driving system developed during **SEA:ME** using NVIDIA Jetson, C++, Python, OpenCV, YOLO and TensorRT.
+
+Implemented real-time perception and vehicle control, including lane detection, PID-based steering, obstacle detection and emergency collision avoidance.
+
+---
+
+### [ft_transcendence](https://github.com/evertonsmotta/ft_transcendence)
+
+Full-stack web application developed as part of the **42 Porto** curriculum using Django, PostgreSQL and Docker.
+
+Includes multiplayer Pong, authentication, tournament management and real-time functionality.
+
+---
+
+### [ft_irc](https://github.com/evertonsmotta/ft_irc)
+
+IRC server implementation developed in **C++**, applying object-oriented programming, TCP/IP networking, sockets and the IRC protocol.
+
+Supports multiple simultaneous clients, channels and IRC commands.
+
+---
+
+### [Inception](https://github.com/evertonsmotta/inception)
+
+Containerized infrastructure built with **Docker and Docker Compose**, including Nginx, WordPress and MariaDB services.
+
+Focused on containerization, networking, persistent storage and service isolation.
+
+---
+
+## 🎓 Background
+
+**Bosch Life Safety Systems**  
+Software Engineering Intern | 2025 – Present
+
+**SEA:ME**  
+Software Engineering in Automotive & Mobility Ecosystem | 2024 – 2025
+
+**42 Porto**  
+Software Development | Common Core completed
+
+---
+
+## 📊 GitHub Stats
+
+![Everton's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonsmotta&show_icons=true&theme=gotham)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Everton_Mota-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonsmota/)
+[![Email](https://img.shields.io/badge/Email-evertonsmotta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertonsmotta@gmail.com)
