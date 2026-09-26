@@ -1,4 +1,4 @@
-# Hi, I'm Everton Mota 👋
+# Hi, I'm Everton Mota !
 
 ### Software Engineer | Full Stack • Embedded & Edge Systems
 
@@ -10,7 +10,7 @@ My background also includes **C/C++ development, embedded systems, computer visi
 
 ---
 
-## 💻 What I'm working with
+## What I'm working with
 
 **Languages**
 
@@ -55,7 +55,7 @@ My background also includes **C/C++ development, embedded systems, computer visi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [JetRacer AI Control](https://github.com/SEAME-pt/ObjectDetectionAvoidance)
 
@@ -89,7 +89,7 @@ Focused on containerization, networking, persistent storage and service isolatio
 
 ---
 
-## 🎓 Background
+## Background
 
 **Bosch Life Safety Systems**  
 Software Engineering Intern | 2025 – Present
@@ -102,7 +102,7 @@ Software Development | Common Core completed
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Everton_Mota-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertonsmota/)
 [![Email](https://img.shields.io/badge/Email-evertonsmotta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertonsmotta@gmail.com)
